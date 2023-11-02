@@ -18,7 +18,7 @@
 <h2 align="left">👨‍💻 Skills & Experiance:</h2>
 
 
-✌ HTML5 / CSS3 / SASS / Bootstrap <br>
+✌ <b>HTML5 / CSS3 / SASS / Bootstrap</b> <br>
 ✌ JavaScript <br>
 ✌ PHP <br>
 ✌ WordPress Theme Development <br> 
