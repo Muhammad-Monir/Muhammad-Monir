@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-monir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-monir" /> </p>
 
--👨‍💻 I’m currently working as a Senior Software Engineer at SoftVence Ltd., a leading technology company based in Bangladesh. In this role, I'm responsible for designing, developing, and maintaining WordPress websites, Laravel applications, and mobile applications for clients across a range of industries.
+-👨‍💻 I’m currently working as a Senior Software Engineer at SoftVence Ltd., a leading technology company based in Bangladesh. In this role, I'm responsible for designing, developing, and maintaining WordPress websites, Laravel applications, and mobile applications for clients across a range of industries.<br>
 -👨‍💻 With over 10 years of experience in WordPress theme and plugin development, Laravel, and mobile apps, I am a skilled and experienced professional who is dedicated to delivering high-quality, responsive, and visually appealing websites. Throughout my career, I have worked with clients across a range of industries, designing and developing customs that meet their specific requirements and exceed their expectations. My expertise includes HTML, CSS, PHP, JavaScript, Laravel, Flutter, and other web development technologies, as well as best practices for SEO, user experience, and performance optimization.
 
 - 📫 How to reach me **<a href="https://www.upwork.com/freelancers/~01448f922fdc616ee0">UPWORK</a>
